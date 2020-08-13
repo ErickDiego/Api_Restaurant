@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Restaurant.Repository": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
